@@ -1,0 +1,11 @@
+Package: shellaRguments
+Type: Package
+Title: Test the use of Shell Arguments
+Version: 0.1.0
+Author: Bryce Carson
+Maintainer: Bryce Carson <bryce.a.carson@gmail.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GPLv3
+Encoding: UTF-8
+LazyData: true
